@@ -1,6 +1,8 @@
+#define _USE_MATH_DEFINES
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>       // Needed to give access to M_PI
+
 
 /* FUNCTION: CalculateAreaOfCircle
 
